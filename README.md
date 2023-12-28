@@ -1,1 +1,12 @@
-# Products
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style2.css">
+    <title>PRODUCTS</title>
+</head>
+<body>
+    <H1>ABOUT YOUR PRODUCTS</H1>
+</body>
+</html>
